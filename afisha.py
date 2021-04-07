@@ -5,6 +5,7 @@ from config import CATEGORIES
 from database import Database
 
 
+
 # response = requests.get('https://www.afisha.uz/exhibitions/')
 # print(response) #вывод кода HTTP состояния
 # print(response.text) #вывод html страницы
